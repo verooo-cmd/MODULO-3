@@ -1,0 +1,5 @@
+
+{
+  "tipo": "Fuga de agua",
+  "descripcion": "Se rompió una tubería principal y se está desperdiciando mucha agua en la avenida principal"
+}
